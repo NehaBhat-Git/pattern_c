@@ -16,6 +16,7 @@ Doing 35 pattern problem question in C
 	**
 	***
 	****
+	*****
 
 3.
 
