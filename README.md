@@ -102,28 +102,32 @@ Doing  pattern problem question in C
        * * *
       * * * *
      * * * * *
-13
+13.
 
-	A B C
-	A B C
-	A B C
- 14
+	A B C D
+	A B C D
+	A B C D
+	A B C D
+ 14.
  
-	 A A A
-	 B B B
-	 C C C
-15
+	 A A A A
+	 B B B B
+	 C C C C
+	 D D D D
+15.
 
 	1
 	2 1
 	3 2 1
 	4 3 2 1
-16
+	5 4 3 2 1
+16.
 
 	1 
 	2 3
 	3 4 5
 	4 5 6 7
+	5 6 7 8 9
    
    
    
