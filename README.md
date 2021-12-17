@@ -1,5 +1,5 @@
 # pattern_c
-Doing  pattern problem question in C in C++
+Doing  pattern problem question in C and C++
 
 
  1.
